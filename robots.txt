@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tejas.pages.dev/sitemap.xml
+Sitemap: https://tejas-ew7.pages.dev/sitemap.xml
