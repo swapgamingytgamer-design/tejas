@@ -1,0 +1,19 @@
+# .gitignore — TEJAS
+# Python backend
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Local data — never commit user messages or local DBs
+backend/data/*.db
+backend/data/*.sqlite*
+# Local environment / secrets
+.env
+.env.*
+# Editor & OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
